@@ -71,8 +71,6 @@ http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/f8Xp0h9/pBgMaFV.jpg" group-title="",Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FKfPTrd/star-tv.png" group-title="Ulusal",Star TV
-https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/vZ2Hw9y/KuDeTzL.png" group-title="",TBMM TV
 https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png" group-title="",Teve2
@@ -113,3 +111,9 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/qF8Rstv/0PTAYbs.jpg" group-title="",UçanKuş TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FKfPTrd/star-tv.png" group-title="Ulusal",Kanal D
+https://joker.tvizlehd.com/kanald-28052.ts?tkn=naRqEPyFh25IkyJe3bUFRg&tms=1604519373&hst=www.canlitv.vin&ip=31.206.3.224
+#EXTINF:-1 tvg-id="ShowTV" tvg-name="ShowTV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FKfPTrd/star-tv.png" group-title="Ulusal",ShowTV
+https://joker.tvizlehd.com/showtv720-11859.ts?tkn=URqopciC_wpzcUlzEYeXjg&tms=1604519538&hst=www.canlitv.vin&ip=31.206.3.224
+#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FKfPTrd/star-tv.png" group-title="Ulusal",Star TV
+https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
