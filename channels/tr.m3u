@@ -31,8 +31,6 @@ https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 https://s01.vpis.io/dogustv/dogustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" group-title="",ETV Manisa
 https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N7gDm9P/7g6oP1l.jpg" group-title="Ulusal",EuroStar
-https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" group-title="",Finans Turk TV
 http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/CMMB6nk/zzX2cW3.png" group-title="",Guneydoğu TV
@@ -61,10 +59,6 @@ http://137.74.205.201/live3/mm-3mbps.m3u8
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SBw828K/f460YQg.png" group-title="",Natural TV
 https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="NTV TR" tvg-name="NTV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png" group-title="Haber",NTV 360p
-https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-id="NTV TR" tvg-name="NTV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png" group-title="Haber",NTV 720p
-https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TtbYRZD/i3ua14I.jpg" group-title="",ON4 TV
 http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/v1vtvJt/N3keKip.png" group-title="",Power Türk
@@ -87,16 +81,10 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
 #EXTINF:-1 tvg-id="TLC TR" tvg-name="TLC TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/rp1rtsC/Mp1BWwp.png" group-title="Belgesel",TLC
 https://pa9agxjg.rocketcdn.com/tlctv.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="" group-title="Ulusal",TRT 1
-https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="Haber",TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" group-title="",TRT Avaz
 https://tv-trtavaz.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT Cocuk TR" tvg-name="TRT Cocuk TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" group-title="Çocuk Kanalları",TRT Cocuk
-https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT Haber TR" tvg-name="TRT Haber TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="Haber",TRT Haber
-https://tv-trthaber.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bB4yG1Y/cWIvunZ.png" group-title="",TRT Kurdi
 https://tv-trtkurdi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT Muzik TR" tvg-name="TRT Muzik TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg" group-title="Music",TRT Muzik
@@ -111,11 +99,92 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/qF8Rstv/0PTAYbs.jpg" group-title="",UçanKuş TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="" group-title="Ulusal",Kanal D
-https://joker.tvizlehd.com/kanald-28052.ts?tkn=naRqEPyFh25IkyJe3bUFRg&tms=1604519373&hst=www.canlitv.vin&ip=31.206.3.224
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="" group-title="Ulusal",TRT 1
+https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ShowTV" tvg-name="ShowTV" tvg-language="Turkish" tvg-logo="" group-title="Ulusal",ShowTV
-https://joker.tvizlehd.com/showtv720-11859.ts?tkn=URqopciC_wpzcUlzEYeXjg&tms=1604519538&hst=www.canlitv.vin&ip=31.206.3.224
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/57830?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FKfPTrd/star-tv.png" group-title="Ulusal",Star TV
 https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N7gDm9P/7g6oP1l.jpg" group-title="Ulusal",EuroStar
+https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-language="Turkish" tvg-logo="" group-title="Ulusal",ATV
-https://persona-live-trkvz.ercdn.net/v_r1/init.mp4?st=iATX14t0uAsT54rsocBHTw&e=1788617544
+http://teamhitvpro.ddns.net:80/flowers/flowers/218247?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="A2" tvg-name="A2" tvg-language="Turkish" tvg-logo="" group-title="Ulusal",A2
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/57841?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="" group-title="Ulusal",Kanal D
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/57831?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="FoxTV" tvg-name="FoxTV" tvg-language="Turkish" tvg-logo="" group-title="Ulusal",FoxTV
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/57825?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="" group-title="Ulusal",TV8
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/57828?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="" group-title="Ulusal",TV8.5
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/57839?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="" group-title="Ulusal",Kanal 7
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/57844?checkedby:hlscat.com
+
+
+#EXTINF:-1 tvg-id="NTV TR" tvg-name="NTV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png" group-title="Haber",NTV 360p
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
+#EXTINF:-1 tvg-id="NTV TR" tvg-name="NTV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png" group-title="Haber",NTV 720p
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" tvg-language="Turkish" tvg-logo="" group-title="Haber",A Haber
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/60009?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="CNN Türk" tvg-name="CNN Türk" tvg-language="Turkish" tvg-logo="" group-title="Haber",CNN Türk
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/60026?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Haber Türk" tvg-name="Haber Türk" tvg-language="Turkish" tvg-logo="" group-title="Haber",Haber Türk
+https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b2064000.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="TRT Haber TR" tvg-name="TRT Haber TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="Haber",TRT Haber
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-language="Turkish" tvg-logo="" group-title="Haber",TGRT Haber
+http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/index.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Bloomberg HT" tvg-name="Bloomberg HT" tvg-language="Turkish" tvg-logo="" group-title="Haber",Bloomberg HT
+https://canli.ensonhaber.com/tr/bloomberght/index.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="360" tvg-name="360" tvg-language="Turkish" tvg-logo="" group-title="Haber",360
+https://canli.ensonhaber.com/tr/360tv/index.m3u8?checkedby:hlscat.com
+
+
+#EXTINF:-1 tvg-id="A Spor" tvg-name="A Spor" tvg-language="Turkish" tvg-logo="" group-title="Spor",A Spor
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/57886?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="TRT SPOR" tvg-name="TRT SPOR" tvg-language="Turkish" tvg-logo="" group-title="Spor",TRT SPOR
+http://tv2iptv.com:8080/ammar/ammar/84232?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="TRT SPOR 2" tvg-name="TRT SPOR 2" tvg-language="Turkish" tvg-logo="" group-title="Spor",TRT SPOR 2
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/60048?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="TJK TV" tvg-name="TJK TV" tvg-language="Turkish" tvg-logo="" group-title="Spor",TJK TV
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/60043?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="FB TV" tvg-name="FB TV" tvg-language="Turkish" tvg-logo="" group-title="Spor",FB TV
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/57888?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="GS TV" tvg-name="GS TV" tvg-language="Turkish" tvg-logo="" group-title="Spor",GS TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="BJK TV" tvg-name="BJK TV" tvg-language="Turkish" tvg-logo="" group-title="Spor",BJK TV
+http://bestcostiptv.com:8080/ruru/4fd09a88/6861?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Bein Sport Haber" tvg-name="Bein Sport Haber" tvg-language="Turkish" tvg-logo="" group-title="Spor",Bein Sport Haber
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/60036?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Bein Sport 1" tvg-name="Bein Sport 1" tvg-language="Turkish" tvg-logo="" group-title="Spor",Bein Sport 1
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/57919?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Bein Sport 2" tvg-name="Bein Sport 2" tvg-language="Turkish" tvg-logo="" group-title="Spor",Bein Sport 2
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/57923?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Bein Sport 3" tvg-name="Bein Sport 3" tvg-language="Turkish" tvg-logo="" group-title="Spor",Bein Sport 3
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/57924?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Bein Sport 4" tvg-name="Bein Sport 4" tvg-language="Turkish" tvg-logo="" group-title="Spor",Bein Sport 4
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/57925?checkedby:hlscat.com
+
+
+
+#EXTINF:-1 tvg-id="TRT Cocuk TR" tvg-name="TRT Cocuk TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" group-title="Çocuk Kanalları",TRT Cocuk
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-language="Turkish" tvg-logo="" group-title="Çocuk Kanalları",Cartoon Network
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/30011?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Minika GO" tvg-name="Minika GO" tvg-language="Turkish" tvg-logo="" group-title="Çocuk Kanalları",Minika GO
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/59848?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Minika ÇOCUK" tvg-name="Minika ÇOCUK" tvg-language="Turkish" tvg-logo="" group-title="Çocuk Kanalları",Minika ÇOCUK
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/59849?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-language="Turkish" tvg-logo="" group-title="Çocuk Kanalları",Disney Channel
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/30014?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Disney Jr." tvg-name="Disney Jr." tvg-language="Turkish" tvg-logo="" group-title="Çocuk Kanalları",Disney Jr.
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/60028?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-language="Turkish" tvg-logo="" group-title="Çocuk Kanalları",Disney XD
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/30016?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-language="Turkish" tvg-logo="" group-title="Çocuk Kanalları",Nickelodeon
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/30013?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Nick JR" tvg-name="Nick JR" tvg-language="Turkish" tvg-logo="" group-title="Çocuk Kanalları",Nick JR
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/30012?checkedby:hlscat.com
