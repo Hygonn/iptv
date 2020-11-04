@@ -111,9 +111,11 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/qF8Rstv/0PTAYbs.jpg" group-title="",UçanKuş TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FKfPTrd/star-tv.png" group-title="Ulusal",Kanal D
+#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="" group-title="Ulusal",Kanal D
 https://joker.tvizlehd.com/kanald-28052.ts?tkn=naRqEPyFh25IkyJe3bUFRg&tms=1604519373&hst=www.canlitv.vin&ip=31.206.3.224
-#EXTINF:-1 tvg-id="ShowTV" tvg-name="ShowTV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FKfPTrd/star-tv.png" group-title="Ulusal",ShowTV
+#EXTINF:-1 tvg-id="ShowTV" tvg-name="ShowTV" tvg-language="Turkish" tvg-logo="" group-title="Ulusal",ShowTV
 https://joker.tvizlehd.com/showtv720-11859.ts?tkn=URqopciC_wpzcUlzEYeXjg&tms=1604519538&hst=www.canlitv.vin&ip=31.206.3.224
 #EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FKfPTrd/star-tv.png" group-title="Ulusal",Star TV
 https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-language="Turkish" tvg-logo="" group-title="Ulusal",ATV
+https://persona-live-trkvz.ercdn.net/v_r1/init.mp4?st=iATX14t0uAsT54rsocBHTw&e=1788617544
